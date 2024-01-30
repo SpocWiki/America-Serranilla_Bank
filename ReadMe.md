@@ -34,8 +34,8 @@ id: Serranilla_Bank
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Serranilla_Bank/
-markerFolder: ./Serranilla_Bank/
+geojsonFolder: ./
+markerFolder: ./
 ```
 
 
