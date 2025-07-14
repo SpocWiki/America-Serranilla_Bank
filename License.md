@@ -112,11 +112,16 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 
 ## Confidential Links & Embeds: 
-- [[../_Standards/License|License]] 
-- [[../_public/License.public|License.public]] 
-- [[../_internal/License.internal|License.internal]] 
-- [[../_protect/License.protect|License.protect]] 
-- [[../_private/License.private|License.private]] 
-- [[../_personal/License.personal|License.personal]] 
-- [[../_secret/License.secret|License.secret]] 
+
+### [License.public](/_public/\Earth\Continent\America~South\Serranilla_BankLicense.public.md) 
+
+### [License.internal](/_internal/\Earth\Continent\America~South\Serranilla_BankLicense.internal.md) 
+
+### [License.protect](/_protect/\Earth\Continent\America~South\Serranilla_BankLicense.protect.md) 
+
+### [License.private](/_private/\Earth\Continent\America~South\Serranilla_BankLicense.private.md) 
+
+### [License.personal](/_personal/\Earth\Continent\America~South\Serranilla_BankLicense.personal.md) 
+
+### [License.secret](/_secret/\Earth\Continent\America~South\Serranilla_BankLicense.secret.md)
 

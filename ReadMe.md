@@ -40,11 +40,16 @@ markerFolder: ./
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/geo/Continent/America~South/Serranilla_Bank|Serranilla_Bank]] 
-- [[../../../../_public/geo/Continent/America~South/Serranilla_Bank.public|Serranilla_Bank.public]] 
-- [[../../../../_internal/geo/Continent/America~South/Serranilla_Bank.internal|Serranilla_Bank.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Serranilla_Bank.protect|Serranilla_Bank.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Serranilla_Bank.private|Serranilla_Bank.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Serranilla_Bank.personal|Serranilla_Bank.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Serranilla_Bank.secret|Serranilla_Bank.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\America~South\Serranilla_BankReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\America~South\Serranilla_BankReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\America~South\Serranilla_BankReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\America~South\Serranilla_BankReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\America~South\Serranilla_BankReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\America~South\Serranilla_BankReadMe.secret.md)
 
