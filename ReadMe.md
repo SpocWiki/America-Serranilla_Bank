@@ -41,15 +41,17 @@ markerFolder: ./
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\America~South\Serranilla_BankReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/America~South/Serranilla_Bank/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\America~South\Serranilla_BankReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/America~South/Serranilla_Bank/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\America~South\Serranilla_BankReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/America~South/Serranilla_Bank/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\America~South\Serranilla_BankReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/America~South/Serranilla_Bank/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\America~South\Serranilla_BankReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/America~South/Serranilla_Bank/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\America~South\Serranilla_BankReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/America~South/Serranilla_Bank/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/America~South/Serranilla_Bank/ReadMe.secret.md)
 

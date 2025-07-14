@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\America~South\Serranilla_BankLicense.public.md) 
+### [License](/_Standards/Earth/Continent/America~South/Serranilla_Bank/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\America~South\Serranilla_BankLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/America~South/Serranilla_Bank/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\America~South\Serranilla_BankLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/America~South/Serranilla_Bank/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\America~South\Serranilla_BankLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/America~South/Serranilla_Bank/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\America~South\Serranilla_BankLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/America~South/Serranilla_Bank/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\America~South\Serranilla_BankLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/America~South/Serranilla_Bank/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/America~South/Serranilla_Bank/License.secret.md)
 
