@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Serranilla_Bank
+  - ReadMe
 location:
   - 15.866
   - -78.638
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Serranilla_Bank
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Serranilla_Bank
